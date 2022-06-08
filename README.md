@@ -19,6 +19,7 @@ Algumas informações sobre mim:
 
 - 📫 Contato: gs.silva01@outlook.com
 
+<img align="right" alt="Gabi-pic" height="150" style="border-radius:50px;" src="https://picrew.me/shareImg/org/202206/338224_Vwzuqdaq.png">
 
 <div style="display: inline_block"><br>
  <h3 align="left">Ferramentas e Linguagens que tenho conhecimento: </h3>
@@ -27,9 +28,9 @@ Algumas informações sobre mim:
  <img align="center" alt="Gabi-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
  <img align="center" alt="Gabi-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
  <img align="center" alt="Gabi-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
- <img align="center" alt="Gabi-NodeJs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-          
+ <img align="center" alt="Gabi-NodeJs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">        
 </div>
+
   
  ##
  
@@ -43,12 +44,10 @@ Algumas informações sobre mim:
  ##
 </div>
 
-<img align="right" alt="Gabi-pic" height="150" style="border-radius:50px;" src="https://picrew.me/shareImg/org/202206/338224_Vwzuqdaq.png">
-
 <div align="center">
   <a href="https://github.com/G4breela">
-  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=g4breela&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=g4breela&layout=compact&langs_count=7&theme=tokyonight"/> </a>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=g4breela&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=g4breela&layout=compact&langs_count=7&theme=tokyonight"/> </a>
 </div>
 
 
