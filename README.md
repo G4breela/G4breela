@@ -6,7 +6,7 @@
 
 - 🔍 Atualmente estou a procura de um emprego
  
-- 👩🏽‍💻 Estudando JavaScript|HTML|CSS|React|NodeJs
+- 👩🏽‍💻 Estudando JavaScript | HTML | CSS | React | NodeJs
 
 - 🤝🏽 Procuro colaborar com meus colegas do Bootcamp Spread Fullstack Developer na DIO
 
