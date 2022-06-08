@@ -1,8 +1,13 @@
 ### Olá!🙋🏽‍♀️ Eu sou a Gabriela Silva 👋🏽
+
+Aqui compatilho meus projetos que venho realizando ao longo dos meses que estudo programação, espero que gostem! 🥰
 ##
 
-![banner](https://www.sbc.org.br/images/banners/xxxx.jpg) 
+![banner](https://mentorama.com.br/blog/wp-content/uploads/2021/03/mulheres-pioneiras-revolucionaram-tecnologia.png) 
 
+
+
+Algumas informações sobre mim: 
 
 - 🔍 Atualmente estou a procura de um emprego
  
