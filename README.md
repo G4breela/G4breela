@@ -18,8 +18,6 @@ Aqui compatilho meus projetos que venho realizando ao longo dos meses que estudo
 
 - 🤝🏽 Procuro colaborar com meus colegas do Bootcamp Spread Fullstack Developer na DIO
 
-- 🤝🏽 Procuro colaborar com meus colegas do Santander Bootcamp Fullstack Developer na DIO
-
 - 📫 Contato: gs.silva01@outlook.com 
 
 
