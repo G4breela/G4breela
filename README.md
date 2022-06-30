@@ -14,7 +14,7 @@ Aqui compatilho meus projetos que venho realizando ao longo dos meses que estudo
 
 - 🔍 Atualmente estou a procura de um emprego
  
-- 👩🏽‍💻 Estudando JavaScript | HTML | CSS | React | NodeJs
+- 👩🏽‍💻 Estudando JavaScript | HTML | CSS | NodeJs
 
 - 🤝🏽 Procuro colaborar com meus colegas do Bootcamp Spread Fullstack Developer na DIO
 
