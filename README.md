@@ -16,7 +16,7 @@ Aqui compatilho meus projetos que venho realizando ao longo dos meses que estudo
  
 - 👩🏽‍💻 Estudando JavaScript | HTML | CSS | NodeJs
 
-- 🤝🏽 Procuro colaborar com meus colegas do Bootcamp Spread Fullstack Developer na DIO
+- 🤝🏽 Procuro colaborar com meus colegas de graduação em Análise e Desenvolvimento de Sistemas 
 
 - 📫 Contato: gs.silva01@outlook.com 
 
