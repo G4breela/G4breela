@@ -3,7 +3,7 @@
 
 **Neste perfil compatilho meus projetos pessoais e acadêmicos que venho realizando ao longo dos meses que estudo programação, espero que gostem! 🥰**
 
-<img align="center" alt="Gabi-Js" height="300" width="900" src="https://mentorama.com.br/blog/wp-content/uploads/2021/03/mulheres-pioneiras-revolucionaram-tecnologia.png">
+<img align="center" alt="Gabi-Js" height="300" width="700" src="https://mentorama.com.br/blog/wp-content/uploads/2021/03/mulheres-pioneiras-revolucionaram-tecnologia.png">
 
 </br>
 
