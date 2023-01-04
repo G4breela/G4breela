@@ -13,7 +13,7 @@
 
 - 🔍 Atualmente estou a procura de um estágio
  
-- 👩🏽‍💻 Estudando JavaScript | HTML | CSS |
+- 👩🏽‍💻 Estudando JavaScript | HTML | CSS 
 
 - 🤝🏽 Procuro colaborar com meus colegas de graduação em Análise e Desenvolvimento de Sistemas 
 
@@ -28,16 +28,6 @@
  <img align="center" alt="Gabi-Java" height="40" width="50" src="https://img.icons8.com/fluency/344/java-coffee-cup-logo.svg">           
 </div>
 
-</br>
-
-<div>
-  <h2 align="left">Redes Sociais: </h2>
-  <p align="left">
- <a href="https://www.linkedin.com/in/gsilva01/" target="blank" ><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gsilva01" height="30" width="40" / target:"blank"></a>
-  </p> 
-</div>
-
-</br>
 
 <div align="center">
   <a href="https://github.com/G4breela">
