@@ -15,17 +15,18 @@
  
 - 👩🏽‍💻 Estudando JavaScript | HTML | CSS 
 
+- 💡 Nível de Conhecimento: Básico (até o momento)
+
 - 🤝🏽 Procuro colaborar com meus colegas de graduação em Análise e Desenvolvimento de Sistemas 
 
 - 📫 Contato: gs.silva01@outlook.com 
 
 
 <div style="display: inline_block"><br>
- <h2 align="left">Ferramentas e Linguagens que tenho conhecimento básico: </h2>
+ <h2 align="left">Ferramentas e Linguagens: </h2>
  <img align="center" alt="Gabi-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
  <img align="center" alt="Gabi-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
- <img align="center" alt="Gabi-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">   
- <img align="center" alt="Gabi-Java" height="40" width="50" src="https://img.icons8.com/fluency/344/java-coffee-cup-logo.svg">           
+ <img align="center" alt="Gabi-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">             
 </div>
 
 <br>
