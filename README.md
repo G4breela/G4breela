@@ -13,7 +13,7 @@
 
 - 🔍 Atualmente estou a procura de um estágio
  
-- 👩🏽‍💻 Estudando JavaScript | HTML | CSS | Java
+- 👩🏽‍💻 Estudando JavaScript | HTML | CSS |
 
 - 🤝🏽 Procuro colaborar com meus colegas de graduação em Análise e Desenvolvimento de Sistemas 
 
