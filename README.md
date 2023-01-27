@@ -13,7 +13,7 @@
 
 - 🔍 Atualmente estou a procura de um estágio
  
-- 👩🏽‍💻 Estudando JavaScript | HTML | CSS 
+- 👩🏽‍💻 Estudando JavaScript | HTML | CSS  |  MySQL 
 
 - 💡 Nível de Conhecimento: Básico (até o momento)
 
