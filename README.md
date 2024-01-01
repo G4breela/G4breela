@@ -1,4 +1,4 @@
-### <h1>Olá!🙋🏽‍♀️ Eu sou a Gabriela Silva 👋🏽:smile: </h1>
+### <h1>Olá!🙋🏽‍♀️ Eu sou a Gabriela Silva 👋🏽 </h1>
 
 
 **Neste perfil compatilho meus projetos pessoais e acadêmicos que venho realizando ao longo dos meses que estudo programação, espero que gostem! 🥰**
