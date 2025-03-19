@@ -11,13 +11,13 @@
  
  <img align="right" alt="Gabi-pic" height="150" style="border-radius:50px;" src="https://greenpng.com/wp-content/uploads/2021/03/publicdomainq-0053410tkrexo-300x285.png"> 
 
-- 🔍 Atualmente estou estagiando na Ploomes 💜
+- 🔍 Atualmente trabalho na Ploomes como Suporte Transacional - Junior 💜
  
 - 👩🏽‍💻 Estudando JavaScript | HTML | CSS  |  MySQL 
 
 - 💡 Nível de Conhecimento: Básico (até o momento)
 
-- 🤝🏽 Procuro colaborar com meus colegas de graduação em ADS e no estágio 
+- 🤝🏽 Procuro colaborar com meus colegas de trabalho e nas comunidades de tecnologia
 
 - 📫 Contato: gs.silva01@outlook.com 
 
